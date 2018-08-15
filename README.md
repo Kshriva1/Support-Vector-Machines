@@ -7,13 +7,13 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 Here's a picture of the three different Iris types:
 
 - The iris setosa
-
+![alt text](https://github.com/Kshriva1/Support-Vector-Machines/blob/master/download1.jpeg)
 
 - The iris Versicolor
-
+![alt text](https://github.com/Kshriva1/Support-Vector-Machines/blob/master/download2.jpeg)
 
 - The iris virginica
-
+![alt text](https://github.com/Kshriva1/Support-Vector-Machines/blob/master/download3.jpeg)
 
 we will be using the famous [Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set).
 
